@@ -5,7 +5,7 @@ content: 数据获取(return 最近的财务数据)
 '''
 
 import tushare as ts
-pro = ts.pro_api('44e2ca5912fe54773b542c2259135a84c05ff75e75e60bc486da5de6')
+
 
 import numpy as np
 import pandas as pd
